@@ -1,0 +1,1 @@
+Terraform builds the datacenter. Ansible furnishes the machines. Docker boxes the app. Kubernetes runs it. Jenkins moves it. Prometheus watches it.
